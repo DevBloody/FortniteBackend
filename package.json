@@ -1,0 +1,22 @@
+{
+  "name": "fortnitebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zinx-YT/FortniteBackend.git"
+  },
+  "author": "zinx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zinx-YT/FortniteBackend/issues"
+  },
+  "homepage": "https://github.com/zinx-YT/FortniteBackend#readme",
+  "dependencies": {
+    "electron": "^18.2.3"
+  }
+}
