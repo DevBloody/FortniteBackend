@@ -1,6 +1,6 @@
 # FortniteBackend
 
-# Open source
+# Open source - not done
 
 # How to use
 npm start - just to start it
