@@ -1,6 +1,10 @@
 const express = require("express")
 const application = express()
 
+// to fix stuff
+application.use(require('body-parser').json())
+application.use(require('body-parser').urlencoded({ extended: true }))
+
 const fs = require("fs")
 
 const PORT = process.env.PORT || 6923
